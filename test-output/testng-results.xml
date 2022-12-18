@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-16T03:15:44 GMT-07:00" name="Suite" finished-at="2022-08-16T03:15:50 GMT-07:00" duration-ms="6102">
+    <groups>
+    </groups>
+    <test started-at="2022-08-16T03:15:44 GMT-07:00" name="Test" finished-at="2022-08-16T03:15:50 GMT-07:00" duration-ms="6102">
+      <class name="TestLayer.FbRegPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TestLayer.FbRegPageTest@4b45a2f5]" started-at="2022-08-16T03:15:44 GMT-07:00" name="setUp" finished-at="2022-08-16T03:15:49 GMT-07:00" duration-ms="5095" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="fristName(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:TestLayer.FbRegPageTest@4b45a2f5]" started-at="2022-08-16T03:15:49 GMT-07:00" name="fristName" finished-at="2022-08-16T03:15:50 GMT-07:00" duration-ms="580" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Shashank]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Pardhiye]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Shahsnak@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[12346s]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[12346s]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fristName -->
+        <test-method signature="enterBod(java.lang.String,java.lang.String,java.lang.String)[pri:2, instance:TestLayer.FbRegPageTest@4b45a2f5]" started-at="2022-08-16T03:15:50 GMT-07:00" name="enterBod" finished-at="2022-08-16T03:15:50 GMT-07:00" duration-ms="356" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[8]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Sep]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[1994]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterBod -->
+      </class> <!-- TestLayer.FbRegPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
